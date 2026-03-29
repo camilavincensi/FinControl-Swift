@@ -1,6 +1,6 @@
 # FinControl-Swift
 O FinControl é um aplicativo mobile desenvolvido para auxiliar usuários no controle de suas finanças pessoais. O sistema permite cadastrar receitas e despesas, visualizar saldo total, consultar relatórios por categoria, acompanhar transações recentes e visualizar movimentações em mapa. O projeto foi desenvolvido com foco em boas práticas de engenharia de software, adotando arquitetura MVVM, injeção de dependência, testes unitários e princípios de Clean Code.
-
+### Link da demonstração -> https://youtu.be/NQZxL7vSfPQ
 ### 1. CLEAN CODE
 O requisito de Clean Code foi atendido por meio de nomes descritivos, propriedades com acesso controlado (private(set)), separação de responsabilidades, uso de métodos menores e organização do código em extensões privadas para melhorar a legibilidade e manutenção.
 
